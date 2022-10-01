@@ -1,2 +1,2 @@
 # git-demo-one
-This is mu first git practice
+This is my first git practice
